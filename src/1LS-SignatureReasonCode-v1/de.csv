@@ -1,0 +1,8 @@
+"CODE";"NAME";"DESCRIPTION"
+"DA_CREATION_DESPATCHER";"Lieferschein beim Verkäufer"
+"DA_CREATION_SELLER";"Lieferschein beim Verkäufer"
+"DA_CREATION_DRIVER";"Lieferschein beim Fahrer"
+"RA_CREATION_DRIVER";"Empfangsbestätigung vom Fahrer"
+"RA_CREATION_RECEIVER";"Empfangsbestätigung vom Empfänger"
+"RA_CREATION_RECEIVER_PAPER";"Empfangsbestätigung vom Empfänger (Papier)"
+"RA_CREATION_DRIVER_PAPER";"Empfangsbestätigung vom Fahrer (Papier)"

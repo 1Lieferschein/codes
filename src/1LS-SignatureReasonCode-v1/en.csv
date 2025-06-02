@@ -1,0 +1,8 @@
+"CODE";"NAME";"DESCRIPTION"
+"DA_CREATION_DESPATCHER";"DespatchAdvice created by despatcher"
+"DA_CREATION_SELLER";"DespatchAdvice created by seller"
+"DA_CREATION_DRIVER";"DespatchAdvice created by driver"
+"RA_CREATION_DRIVER";"ReceiptAdvice created by driver"
+"RA_CREATION_RECEIVER";"ReceiptAdvice created by receiver"
+"RA_CREATION_RECEIVER_PAPER";"ReceiptAdvice created by receiver from paper"
+"RA_CREATION_DRIVER_PAPER";"ReceiptAdvice created by driver from paper"
