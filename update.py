@@ -64,8 +64,6 @@ def compileList(dir: str):
                 if code not in codes:
                     codes[code] = ""
                 codes[code] += ";" + name + ";" + desc
-                if listname == "1LS-SignatureReasonCode-v1":
-                    print(code + " " + codes[code])
 
     codes = dict(sorted(codes.items()))
     f = open(outputDir + "/" + listname + ".csv", "a")
