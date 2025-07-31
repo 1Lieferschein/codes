@@ -1,8 +1,8 @@
 code;en;en_desc;de;de_desc
-DA_CREATION_DESPATCHER;Lieferschein beim Verkäufer;
-DA_CREATION_DRIVER;Lieferschein beim Fahrer;
-DA_CREATION_SELLER;Lieferschein beim Verkäufer;
-RA_CREATION_DRIVER;Empfangsbestätigung vom Fahrer;
-RA_CREATION_DRIVER_PAPER;Empfangsbestätigung vom Fahrer (Papier);
-RA_CREATION_RECEIVER;Empfangsbestätigung vom Empfänger;
-RA_CREATION_RECEIVER_PAPER;Empfangsbestätigung vom Empfänger (Papier);
+DA_CREATION_DESPATCHER;DespatchAdvice created by despatcher;Despatch advice created by the dispatcher;Lieferschein, ausgestellt vom Versender;Lieferschein, erstellt durch den Versender
+DA_CREATION_DRIVER;DespatchAdvice created by driver;Despatch advice created by the driver;Lieferschein, ausgestellt vom Fahrer;Lieferschein, erstellt vom Fahrer
+DA_CREATION_SELLER;DespatchAdvice created by seller;Despatch advice created by the seller;Lieferschein, ausgestellt vom  Verkäufer;Lieferschein, erstellt durch den Verkäufer
+RA_CREATION_DRIVER;ReceiptAdvice created by driver;Receipt advice created by the driver;Empfangsbestätigung, ausgestellt vom Fahrer;Bestätigung, erstellt vom Fahrer
+RA_CREATION_DRIVER_PAPER;ReceiptAdvice created by driver from paper;Paper-based receipt advice created by the driver;Empfangsbestätigung, ausgestellt vom Fahrer (Papier);Papierbasierte Empfangsbestätigung durch den Fahrer
+RA_CREATION_RECEIVER;ReceiptAdvice created by receiver;Receipt advice created by the receiver;Empfangsbestätigung, ausgestellt vom Empfänger;Elektronische Bestätigung des Wareneingangs durch den Empfänger
+RA_CREATION_RECEIVER_PAPER;ReceiptAdvice created by receiver from paper;Paper-based receipt advice created by the receiver;Empfangsbestätigung, ausgestellt vom Empfänger (Papier);Papierbasierte Empfangsbestätigung durch den Empfänger

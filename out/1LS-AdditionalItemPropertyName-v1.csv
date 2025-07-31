@@ -1,46 +1,51 @@
-code;en;en_desc
-ADDITIONAL_SERVICE;;
-ADDITIVE_DESCRIPTION;;
-ADMIXTURE_DESCRIPTION;;
-ADMIXTURE_MANUFACTURER;;
-AGE_AT_TESTING;;
-AIR_TEMPERATURE;;
-AMOUNT_ADDED;;
-APPLICATION_OR_USAGE;;
-CEMENT_BATCH_DESIGNATION;;
-CERTIFICATION_BODY;;
-CHLORIDE_CONTENT;;
-COMPRESSIVE_STRENGTH;;
-CONCRETE_TEMPERATURE;;
-CONCRETE_TYPE;;
-CONSISTENCY_CLASS;;
-CONSISTENCY_RANGE_AFTER_ADDITION;;
-CONSISTENCY_RANGE_BEFORE_ADDITION;;
-DENSITY_CLASS;;
-ESTIMATED_QUANTITY_OF_CONCRETE_BEFORE_ADDITION;;
-EXPOSURE_CLASS;;
-EXTENDED_WORKABILITY_TIME;;
-EXTERNALLY_MONITORED;;
-MAXIMUM_AGGREGATE_SIZE;;
-MAX_ADDED_AMOUNT_OF_SUPERPLASTICIZER;;
-MAX_WATER_CEMENT_RATIO;;Ratio w/c (eq)
-MIX_ADDITIVES;;
-MIX_DESIGN;;
-MOISTURE_CLASS;;
-MONITORING_CLASS;;
-NOTES_OR_REMARKS;;
-NUMBER_OF_BATCHES;;
-PLACE_OF_ADDITION;;
-PRODUCTION_END;;
-PRODUCTION_START;;
-PRODUCT_ADDITION_AT_CONSTRUCTION_SITE;;
-PRODUCT_PROPERTY;;
-REMAINING_QUANTITY_IN_VEHICLE;;
-RETARDATION_TIME;;
-RETARDER_ADDITION_AT_CUSTOMER’S_REQUEST;;
-STEEL_FIBER_ADDITION;;
-STRENGTH_CLASS;;
-STRENGTH_DEVELOPMENT;;
-SUPERPLASTICIZER_ADDITION_AT_CUSTOMERS_REQUEST;;
-TIME_OF_ADDITION;;
-WORKABILITY;;
+code;en;en_desc;de;de_desc
+Additional Service;Additional Service;Listed as a separate item with an ID referencing the main article.;Zusätzliche Leistung;Dies wird als Stückliste aufgeführt, indem es als separates Item aufgeführt wird,  bei welchem die ID eine Zuordnung zum übergeordneten Artikel herstellt.
+Additive Description;Additive Name;Name/designation of the additive.;Zugabemittel Bezeichnung;Bezeichnung der Zusatzmittel
+Air Temperature;Air Temperature;Temperature at arrival on the construction site.;Lufttemperatur;Bei Ankunft auf der Baustelle
+Amount Added;Quantity of Additive;Quantity of the additive added.;Zugabemenge;Menge der Zusatzmittel
+Batch Binder Designation;Binder Batch Description;Description of the binder batch.;ChargenBindemittelBezeichnung;Bezeichnung der Charge Bindemittel
+Batch Cement Designation;Cement Batch Designation;Description of the cement batch.;ChargenZementBezeichnung;Bezeichnung der Zementcharge
+Certification body;Certification Body;Accredited certification body.;Zertifizierungsstelle;Akkreditierte Zertifizierungsstelle
+Chloride Content;Chloride Content;Indicates the chloride content of the concrete.;Chloridgehalt;Gibt den Chloridgehalt des Betons an.
+Concrete Temperature;Concrete Temperature;Temperature of the concrete upon arrival at the site.;Betontemperatur;Bei Ankunft auf der Baustelle
+Concrete Type;Type of Concrete;Type of concrete: property-based or composition-based.;Betonsorte;Art, des Betons: Beton nach Eigenschaften Beton nach Zusammensetzung
+Consistency Range After Addition;Consistency Range After Addition;Consistency range after additive was added.;Konsistenzbereich nach Zugabe;Wie ist der Konsistenzbereich nach der Zugabe des Zusatzmittels?
+Consistency Range Before Addition;Consistency Range Before Addition;Consistency range before additive was added.;Konsistenzbereich vor Zugabe;Wie ist der Konsistenzbereich vor der Zugabe des Zusatzmittels?
+End of Production;Production End;Time of the end of the mixture's production.;Produktionsende;Der Zeitpunkt des Produktionsendes des Mischgutes.
+Estimated Quantity of Concrete Before Addition;Estimated Concrete Quantity Before Addition;Concrete quantity before adding the additive.;Geschätze Menge Beton vor Zugabe;Wie ist groß ist die Betonmenge vor Zugabe des Zusatzmittels?
+Extended Workability Time;Extended Workability Time;Indicates the workability time after admixture use.;Verlängerte Verarbeitbarkeitszeit;Wie ist die Verarbeitbarkeitszeit nach Zugabemitteln
+Externally Monitored;Externally Monitored;Is additional external control being performed?;Fremdüberwacht;Wird eine zusätzliche, externe Kontrolle durchgeführt?
+Hazardous Goods Class;Hazard Class;Hazardous materials classification.;Gefahrgutklasse;Gefahrgutklasse des Artikels
+Max. Added Amount of Superplasticizer;Max. Superplasticizer Quantity;Maximum quantity of superplasticizer allowed on-site.;Max. Zusatzmenge Fließmittel;Max. Menge an Fließmitteln auf der Baustelle
+Max. Water-Cement Ratio w/c (eq);Max. Water-Cement Ratio (w/c eq);Key value for preparing materials with hydraulic binders.;Max. Wasserzementgehalt w/z(eq);Kennwert bei der Zubereitung von Baustoffen mit hydraulischem Bindemittel.
+Maximum grain size;Maximum Aggregate Size;Indicates the largest particle size in the aggregate.;Groesstkorn;Gibt den größten Gesteinskorndurchmesser einer Gesteinskörnung an.
+Mix Additives;Mix Additions;Describes binders, admixtures, and additives.;Rezeptzusätze;Beschreibt Bindemittel, Zusatzmittel und Zusatzstoffe.
+Mix Design;Mix Design;Standardized or custom mix design of the material.;Rezept;Genormte oder freie Rezeptur des Materials
+Mixture additive manufacturer;Admixture Manufacturer;Manufacturer of the Admixture.;MischungZusatzstoffHersteller;Der Hersteller des Zusatzstoffes.
+Mixture additive name;Admixture Description;Name of the Admixture.;MischungZusatzstoffBezeichnung;Bezeichnung des Zusatzstoffes
+Monitoring Class;Monitoring Class;Level/class of monitoring required for the concrete.;Überwachungsklasse;
+Notes / Remarks;Notes;Notes regarding the mix, delivery, and additions (free text).;Hinweise;Hinweise zur Rezeptur, Anlieferung und Zugaben als Freitext
+Number of Batches;Number of Batches;Number of included batches in the delivered mixture.;Anzahl Chargen;Anzahl der inkludierten Chargen im gelieferten Mischgut.
+Place of Addition;Addition Location;Location where the additives were added.;Zugabeort;Ort, an welchem Zusätze hinzugeben wurden.
+Pollutant Class;Contaminant Class;Contaminant class of the item.;Schadstoffklasse;Schadstoffklasse des Artikels
+Product Addition at Construction Site;On-Site Product Addition;Listed as a separate item with an ID referencing the main article.;Produktbeigabe auf der Baustelle;Dies wird als Stückliste aufgeführt, indem es als separates Item aufgeführt wird,  bei welchem die ID eine Zuordnung zum übergeordneten Artikel herstellt.
+Remaining Quantity in Vehicle;Remaining Quantity in Vehicle;Amount of item that remains in the vehicle and is not unloaded.;Restmenge im Fahrzeug;Wie groß ist die Artikelmenge, die nicht entladen wird?
+Retardation Time;Retardation Time;Time by which the addition of a retarder delays setting and heat development.;Verzögerungszeit;Um welche Zeitspanne verzögert die Zugabe von Verzögerern das Erstarren sowie die Wärmeentwicklung
+Retarder Addition at Customer’s Request;Retarder Addition at Customer Request;Was retarder added at the customer's request?;Verzögererzugabe auf Verlangen des Kunden;Verlangt der Kunde eine Verzögerzugabe?
+Start of Production;Production Start;Time of the beginning of the mixture's production.;Produktionsbeginn;Der Zeitpunkt des Produktionsbeginns des Mischgutes.
+Steel Fiber Addition;Steel Fiber Addition;Type of fiber addition to concrete: slow, medium, fast.;Stahlfaserbeigabe;Art der Faserbeigabe zu Beton: langsam, mittel, schnell
+Storage unit;Compartment;Information on the  compartment or silo to assist in picking.;Lagerfach;Hinweis auf das Lagerfach oder Silo eines Artikels zur Unterstützung der Kommissionierung.
+Strength Class;Strength Class;Strength/performance class of the delivered concrete.;Festigkeitsklasse;Festigkeitsklasse/Leistungsklasse des gelieferten Betons
+Superplasticizer Addition at Customer’s Request;Superplasticizer Addition at Customer Request;Was superplasticizer added at the customer's request?;Fließmittelzugabe auf Verlangen des Kunden;Verlangt der Kunde eine Fließmittelzugabe?
+Testing age;Age at Testing;Age of the specimen at the time of testing.;Pruefalter;Alter des Probekörpers im Augenblick der Prüfung.
+Time of Addition;Time of Addition;Point in time when the additive was added.;Zugabezeitpunkt;Zugabezeitpunkt der Zusatzmittel
+Water added at customer's request;Water Addition at Customer Request;Listed as a separate item with an ID referencing the main article.;Wasserzugabe auf Verlangen des Kunden;Dies wird als Stückliste aufgeführt, indem es als separates Item aufgeführt wird,  bei welchem die ID eine Zuordnung zum übergeordneten Artikel herstellt.
+Workability;Energy Absorption Capacity;Potential energy absorption of a concrete element until failure.;Arbeitsvermögen;Mögliche Energieaufnahme eines Betonbauteils bis zum Versagen.
+application / usage;Application / Usage;The planned application or use of the delivered concrete.;Verwendung;Geplante Verwendung des gelieferten Betons.
+compressive strength;Compressive Strength;The load-bearing capacity of the material in built-in condition.;Druckfestigkeit;Die vom Material im eingebauten Zustand ertragbare Druckbeanspruchung.
+consistency class;Consistency Class;The consistency of fresh concrete is described using consistency classes.;Konsistenzklasse;Die Beschreibung der Konsistenz von Frischbeton erfolgt über die Konsistenzklassen.
+exposure class;Exposure Class;Exposure classes define durability requirements for reinforcement and concrete corrosion depending on chemical and physical exposure conditions.;Expositionsklasse;In den Expositionsklassen sind die Anforderungen an die Haltbarkeit für die Bewehrung und die Betonkorrosion in Abhängigkeit von den chemischen und physikalischen Einwirkungen festgelegt
+gross density class;Density Class;Density class of the material.;Rohdichteklasse;Die Rohdichteklasse des Materials .
+moisture class;Moisture Class;The moisture class categorizes environmental conditions related to potential harmful alkali-silica reactions, as defined by the project planner.;Feuchtigkeitsklasse;Die Feuchtigkeitsklasse ist eine Einstufung der Umgebungsbedingungen, die vom Planer hinsichtlich einer möglichen schädigenden Alkali-Kieselsäure-Reaktion festzulegen ist.
+net price per unit;Unit Price;Display of the unit price. This is often used in communication with customers.;Preis je Einheit;Ausweis des Preises je Einheit. Dies erfolgt im Schriftverkehr mit externen Kunden und teilweise auch Privatkunden.
+strength development;Strength Development;Concrete is classified according to the development of its compressive strength as very slow, slow, medium, or fast.;Festigkeitsentwicklung;Betone werden entsprechend des Festigkeitsentwicklung in sehr langsam, langsam, mittel oder schnell eingestuft.

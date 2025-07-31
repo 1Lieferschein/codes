@@ -479,7 +479,7 @@ DRA;dram (US);Synonym: drachm (UK), troy dram
 DRI;dram (UK);Synonym: avoirdupois dram
 DRL;dozen roll;A unit of count defining the number of rolls, expressed in twelve roll units.
 DT;dry ton;A unit of mass defining the number of tons of a product, disregarding the water content of the product.
-DTN;decitonne;Synonym: centner, metric 100 kg; quintal, metric 100 kg
+DTN;decitonne;Synonym: centner, metric 100 kg/quintal, metric 100 kg
 DWT;pennyweight;
 DZN;dozen;A unit of count defining the number of units in multiples of 12.
 DZP;dozen pack;A unit of count defining the number of packs in multiples of 12 (pack: standard packaging unit).

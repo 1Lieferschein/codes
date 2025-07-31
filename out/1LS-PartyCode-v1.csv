@@ -1,0 +1,9 @@
+code;en;en_desc;de;de_desc
+BUYER_CUSTOMER_PARTY;Buyer;Buyer of the document.;Käufer;Käufer des Dokuments.
+CARRIER_PARTY;Carrier;Carrier of the document.;Transporteur;Transporteur des Dokuments.
+DELIVERY_CUSTOMER_PARTY;Recipient;Recipient of the document.;Empfänger;Empfänger des Dokuments.
+DELIVERY_PARTY;Delivery Location;Delivery location of the document.;Empfangsstelle;Empfangsstelle des Dokuments.
+DESPATCH_SUPPLIER_PARTY;Dispatcher;Dispatcher of the document.;Versender;Versender des Dokuments.
+ORIGINATOR_CUSTOMER_PARTY;Client;Client of the document.;Auftraggeber;Auftraggeber des Dokuments.
+SELLER_SUPPLIER_PARTY;Seller;Seller of the document.;Verkäufer;Verkäufer des Dokuments.
+SIGNATORY_PARTY;Creator;Creator of the document.;Ersteller;Ersteller des Dokuments.

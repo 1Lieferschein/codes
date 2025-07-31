@@ -21,6 +21,7 @@ def compileList(dir: str):
 
     for file in files:
         if not file.endswith(".csv"):
+            print("Error: Ignoring non csv file " + file + "!")
             continue
 
         f = dir + "/" + file
@@ -48,6 +49,7 @@ def compileList(dir: str):
                 desc = row[2].strip() if 2 < len(row) else ""
 
                 if code == None:
+                    print("Ignoring row " + row)
                     continue
 
                 if not code in codes:
@@ -59,9 +61,11 @@ def compileList(dir: str):
                     print("Error: Ignoring duplicate code entry in mainlang for " + code + " in " + lang + " for " + listname)
                     continue
 
-
-                codes[code] = ""
+                if code not in codes:
+                    codes[code] = ""
                 codes[code] += ";" + name + ";" + desc
+                if listname == "1LS-SignatureReasonCode-v1":
+                    print(code + " " + codes[code])
 
     codes = dict(sorted(codes.items()))
     f = open(outputDir + "/" + listname + ".csv", "a")

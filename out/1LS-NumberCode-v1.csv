@@ -1,0 +1,10 @@
+code;en;en_desc;de;de_desc
+CARRIER_CREDITOR_ID;Carrier Number;Carrier number;Transporteurnummer;Transporteurnummer
+COST_CENTER_ID;Cost Center Number;Cost center number;Kostenstellennummer;Kostenstellennummer
+DEBTOR_ID;Debtor Number;Debtor number;Debitorennummer;Debitorennummer
+DELIVERY_POINT_ID;Delivery Point Number;Delivery point number;Empfangsstellennummer;Empfangsstellennummer
+DRIVER_ID;Driver Number;Driver number;Fahrernummer;Fahrernummer
+LOCATION_ID;Site Branch Number;Site branch number;Standortniederlassungsnummer;Standortniederlassungsnummer
+PICKUP_ID;Pickup Number;Pickup number;Abholer Nummer;Abholer Nummer
+VEHICLE_ID;Vehicle Number;Vehicle number;Fahrzeugnummer;Fahrzeugnummer
+VENDOR_ID;Vendor Number;Vendor number;Kreditorennummer;Kreditorennummer
