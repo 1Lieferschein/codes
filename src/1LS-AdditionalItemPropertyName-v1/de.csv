@@ -1,51 +1,54 @@
-"CODE";"NAME";"DESCRIPTION"
-"net price per unit";"Preis je Einheit";"Ausweis des Preises je Einheit. Dies erfolgt im Schriftverkehr mit externen Kunden und teilweise auch Privatkunden."
-"Storage unit";"Lagerfach";"Hinweis auf das Lagerfach oder Silo eines Artikels zur Unterstützung der Kommissionierung."
-"compressive strength";"Druckfestigkeit";"Die vom Material im eingebauten Zustand ertragbare Druckbeanspruchung."
-"consistency class";"Konsistenzklasse";"Die Beschreibung der Konsistenz von Frischbeton erfolgt über die Konsistenzklassen."
-"exposure class";"Expositionsklasse";"In den Expositionsklassen sind die Anforderungen an die Haltbarkeit für die Bewehrung und die Betonkorrosion in Abhängigkeit von den chemischen und physikalischen Einwirkungen festgelegt"
-"moisture class";"Feuchtigkeitsklasse";"Die Feuchtigkeitsklasse ist eine Einstufung der Umgebungsbedingungen, die vom Planer hinsichtlich einer möglichen schädigenden Alkali-Kieselsäure-Reaktion festzulegen ist."
-"application / usage";"Verwendung";"Geplante Verwendung des gelieferten Betons."
-"strength development";"Festigkeitsentwicklung";"Betone werden entsprechend des Festigkeitsentwicklung in sehr langsam, langsam, mittel oder schnell eingestuft."
-"Certification body";"Zertifizierungsstelle";"Akkreditierte Zertifizierungsstelle"
-"Testing age";"Pruefalter";"Alter des Probekörpers im Augenblick der Prüfung."
-"Chloride Content";"Chloridgehalt";"Gibt den Chloridgehalt des Betons an. "
-"Maximum grain size";"Groesstkorn";"Gibt den größten Gesteinskorndurchmesser einer Gesteinskörnung an."
-"gross density class";"Rohdichteklasse";"Die Rohdichteklasse des Materials ."
-"Mixture additive name";"MischungZusatzstoffBezeichnung";"Bezeichnung des Zusatzstoffes"
-"Mixture additive manufacturer";"MischungZusatzstoffHersteller";"Der Hersteller des Zusatzstoffes."
-"Batch Cement Designation";"ChargenZementBezeichnung";"Bezeichnung der Zementcharge"
-"Batch Binder Designation";"ChargenBindemittelBezeichnung";"Bezeichnung der Charge Bindemittel"
-"Pollutant Class";"Schadstoffklasse";"Schadstoffklasse des Artikels"
-"Hazardous Goods Class";"Gefahrgutklasse";"Gefahrgutklasse des Artikels"
-"Start of Production";"Produktionsbeginn";"Der Zeitpunkt des Produktionsbeginns des Mischgutes."
-"End of Production";"Produktionsende";"Der Zeitpunkt des Produktionsendes des Mischgutes."
-"Number of Batches";"Anzahl Chargen";"Anzahl der inkludierten Chargen im gelieferten Mischgut."
-"Concrete Type";"Betonsorte";"Art, des Betons: Beton nach Eigenschaften Beton nach Zusammensetzung"
-"Max. Water-Cement Ratio w/c (eq)";"Max. Wasserzementgehalt w/z(eq)";"Kennwert bei der Zubereitung von Baustoffen mit hydraulischem Bindemittel."
-"Steel Fiber Addition";"Stahlfaserbeigabe";"Art der Faserbeigabe zu Beton: langsam, mittel, schnell"
-"Workability";"Arbeitsvermögen";"Mögliche Energieaufnahme eines Betonbauteils bis zum Versagen."
-"Air Temperature";"Lufttemperatur";"Bei Ankunft auf der Baustelle"
-"Concrete Temperature";"Betontemperatur";"Bei Ankunft auf der Baustelle"
-"Mix Additives";"Rezeptzusätze";"Beschreibt Bindemittel, Zusatzmittel und Zusatzstoffe."
-"Notes / Remarks";"Hinweise";"Hinweise zur Rezeptur, Anlieferung und Zugaben als Freitext"
-"Mix Design";"Rezept";"Genormte oder freie Rezeptur des Materials"
-"Externally Monitored";"Fremdüberwacht";"Wird eine zusätzliche, externe Kontrolle durchgeführt?"
-"Strength Class";"Festigkeitsklasse";"Festigkeitsklasse/Leistungsklasse des gelieferten Betons"
-"Monitoring Class";"Überwachungsklasse";""
-"Extended Workability Time";"Verlängerte Verarbeitbarkeitszeit";"Wie ist die Verarbeitbarkeitszeit nach Zugabemitteln"
-"Max. Added Amount of Superplasticizer";"Max. Zusatzmenge Fließmittel";"Max. Menge an Fließmitteln auf der Baustelle"
-"Retardation Time";"Verzögerungszeit";"Um welche Zeitspanne verzögert die Zugabe von Verzögerern das Erstarren sowie die Wärmeentwicklung"
-"Product Addition at Construction Site";"Produktbeigabe auf der Baustelle";"Dies wird als Stückliste aufgeführt, indem es als separates Item aufgeführt wird,  bei welchem die ID eine Zuordnung zum übergeordneten Artikel herstellt. "
-"Water added at customer's request";"Wasserzugabe auf Verlangen des Kunden";"Dies wird als Stückliste aufgeführt, indem es als separates Item aufgeführt wird,  bei welchem die ID eine Zuordnung zum übergeordneten Artikel herstellt. "
-"Additional Service";"Zusätzliche Leistung";"Dies wird als Stückliste aufgeführt, indem es als separates Item aufgeführt wird,  bei welchem die ID eine Zuordnung zum übergeordneten Artikel herstellt. "
-"Superplasticizer Addition at Customer’s Request";"Fließmittelzugabe auf Verlangen des Kunden";"Verlangt der Kunde eine Fließmittelzugabe? "
-"Retarder Addition at Customer’s Request";"Verzögererzugabe auf Verlangen des Kunden";"Verlangt der Kunde eine Verzögerzugabe? "
-"Place of Addition";"Zugabeort";"Ort, an welchem Zusätze hinzugeben wurden."
-"Amount Added";"Zugabemenge";"Menge der Zusatzmittel"
-"Additive Description";"Zugabemittel Bezeichnung";"Bezeichnung der Zusatzmittel"
-"Time of Addition";"Zugabezeitpunkt";"Zugabezeitpunkt der Zusatzmittel"
-"Estimated Quantity of Concrete Before Addition";"Geschätze Menge Beton vor Zugabe";"Wie ist groß ist die Betonmenge vor Zugabe des Zusatzmittels? "
-"Consistency Range Before Addition";"Konsistenzbereich vor Zugabe";"Wie ist der Konsistenzbereich vor der Zugabe des Zusatzmittels?"
-"Consistency Range After Addition";"Konsistenzbereich nach Zugabe";"Wie ist der Konsistenzbereich nach der Zugabe des Zusatzmittels?"
-"Remaining Quantity in Vehicle";"Restmenge im Fahrzeug";"Wie groß ist die Artikelmenge, die nicht entladen wird?"
+CODE;NAME;DESCRIPTION
+Additional Service;Zusaetzliche Leistung;Dies wird als Stueckliste aufgefuehrt, indem es als separates Item aufgefuehrt wird, bei welchem die ID eine Zuordnung zum uebergeordneten Artikel herstellt.
+Additive Description;Zugabemittel Bezeichnung;Bezeichnung der Zusatzmittel
+Air Temperature;Lufttemperatur;Bei Ankunft auf der Baustelle
+Amount Added;Zugabemenge;Menge der Zusatzmittel
+Batch Binder Designation;ChargenBindemittelBezeichnung;Bezeichnung der Charge Bindemittel
+Batch Cement Designation;ChargenZementBezeichnung;Bezeichnung der Zementcharge
+Certification body;Zertifizierungsstelle;Akkreditierte Zertifizierungsstelle
+Chloride Content;Chloridgehalt;Gibt den Chloridgehalt des Betons an.
+Concrete Temperature;Betontemperatur;Bei Ankunft auf der Baustelle
+Concrete Type;Betonsorte;Art, des Betons: Beton nach Eigenschaften Beton nach Zusammensetzung
+Consistency Range After Addition;Konsistenzbereich nach Zugabe;Wie ist der Konsistenzbereich nach der Zugabe des Zusatzmittels?
+Consistency Range Before Addition;Konsistenzbereich vor Zugabe;Wie ist der Konsistenzbereich vor der Zugabe des Zusatzmittels?
+End of Production;Produktionsende;Der Zeitpunkt des Produktionsendes des Mischgutes.
+Estimated Quantity of Concrete Before Addition;Geschaetze Menge Beton vor Zugabe;Wie ist gross ist die Betonmenge vor Zugabe des Zusatzmittels?
+Extended Workability Time;Verlaengerte Verarbeitbarkeitszeit;Wie ist die Verarbeitbarkeitszeit nach Zugabemitteln
+Externally Monitored;Fremdueberwacht;Wird eine zusaetzliche, externe Kontrolle durchgefuehrt?
+Hazardous Goods Class;Gefahrgutklasse;Gefahrgutklasse des Artikels
+Max. Added Amount of Superplasticizer;Max. Zusatzmenge Flie�mittel;Max. Menge an Fliessmitteln auf der Baustelle
+Max. Water-Cement Ratio w/c (eq);Max. Wasserzementgehalt w/z(eq);Kennwert bei der Zubereitung von Baustoffen mit hydraulischem Bindemittel.
+Maximum grain size;Groesstkorn;Gibt den groessten Gesteinskorndurchmesser einer Gesteinskoernung an.
+Mix Additives;Rezeptzusaetze;Beschreibt Bindemittel, Zusatzmittel und Zusatzstoffe.
+Mix Design;Rezept;Genormte oder freie Rezeptur des Materials
+Mixture additive manufacturer;MischungZusatzstoffHersteller;Der Hersteller des Zusatzstoffes.
+Mixture additive name;MischungZusatzstoffBezeichnung;Bezeichnung des Zusatzstoffes
+Monitoring Class;Ueberwachungsklasse;
+Notes / Remarks;Hinweise;Hinweise zur Rezeptur, Anlieferung und Zugaben als Freitext
+Number of Batches;Anzahl Chargen;Anzahl der inkludierten Chargen im gelieferten Mischgut.
+Place of Addition;Zugabeort;Ort, an welchem Zusaetze hinzugeben wurden.
+Pollutant Class;Schadstoffklasse;Schadstoffklasse des Artikels
+Product Addition at Construction Site;Produktbeigabe auf der Baustelle;Dies wird als Stueckliste aufgefuehrt, indem es als separates Item aufgefuehrt wird, bei welchem die ID eine Zuordnung zum uebergeordneten Artikel herstellt.
+Remaining Quantity in Vehicle;Restmenge im Fahrzeug;Wie gro� ist die Artikelmenge, die nicht entladen wird?
+Retardation Time;Verzoegerungszeit;Um welche Zeitspanne verzoegert die Zugabe von Verzoegerern das Erstarren sowie die Waermeentwicklung
+Retarder Addition at Customer’s Request;Verzoegererzugabe auf Verlangen des Kunden;Verlangt der Kunde eine Verzoegerzugabe?
+Start of Production;Produktionsbeginn;Der Zeitpunkt des Produktionsbeginns des Mischgutes.
+Steel Fiber Addition;Stahlfaserbeigabe;Art der Faserbeigabe zu Beton: langsam, mittel, schnell
+Storage unit;Lagerfach;Hinweis auf das Lagerfach oder Silo eines Artikels zur Unterstützung der Kommissionierung.
+Strength Class;Festigkeitsklasse;Festigkeitsklasse/Leistungsklasse des gelieferten Betons
+Superplasticizer Addition at Customer’s Request;Flie�mittelzugabe auf Verlangen des Kunden;Verlangt der Kunde eine Flie�mittelzugabe?
+Testing age;Pruefalter;Alter des Probekoerpers im Augenblick der Pruefung.
+Time of Addition;Zugabezeitpunkt;Zugabezeitpunkt der Zusatzmittel
+Water added at customer's request;Wasserzugabe auf Verlangen des Kunden;Dies wird als Stueckliste aufgefuehrt, indem es als separates Item aufgefuehrt wird,  bei welchem die ID eine Zuordnung zum uebergeordneten Artikel herstellt.
+Workability;Arbeitsvermoegen;Moegliche Energieaufnahme eines Betonbauteils bis zum Versagen.
+Idended Use;Verwendung;Geplante Verwendung des gelieferten Betons.
+compressive strength;Druckfestigkeit;Die vom Material im eingebauten Zustand ertragbare Druckbeanspruchung.
+consistency class;Konsistenzklasse;Die Beschreibung der Konsistenz von Frischbeton erfolgt ueber die Konsistenzklassen.
+exposure class;Expositionsklasse;In den Expositionsklassen sind die Anforderungen an die Haltbarkeit fuer die Bewehrung und die Betonkorrosion in Abhaengigkeit von den chemischen und physikalischen Einwirkungen festgelegt
+gross density class;Rohdichteklasse;Die Rohdichteklasse des Materials .
+moisture class;Feuchtigkeitsklasse;Die Feuchtigkeitsklasse ist eine Einstufung der Umgebungsbedingungen, die vom Planer hinsichtlich einer moeglichen schaedigenden Alkali-Kieselsaeure-Reaktion festzulegen ist.
+net price per unit;Preis je Einheit;Ausweis des Preises je Einheit. Dies erfolgt im Schriftverkehr mit externen Kunden und teilweise auch Privatkunden.
+strength development;Festigkeitsentwicklung;Betone werden entsprechend des Festigkeitsentwicklung in sehr langsam, langsam, mittel oder schnell eingestuft.
+BIM Object;BIM-Objekt;Link zu spezifischen BIM-Objektes innerhalb eines BIM-Modells
+Locality;Lokalit�t;Relative Positionierung Stationierung / Wohnung / Raumnummer, [..]
+Georeferencing;Georeferenzierung;(Geplante) Absolute Position des Gutes, beschreibbar durch Koordinaten
