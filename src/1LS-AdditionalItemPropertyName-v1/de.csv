@@ -16,7 +16,7 @@ Estimated Quantity of Concrete Before Addition;Geschaetze Menge Beton vor Zugabe
 Extended Workability Time;Verlaengerte Verarbeitbarkeitszeit;Wie ist die Verarbeitbarkeitszeit nach Zugabemitteln
 Externally Monitored;Fremdueberwacht;Wird eine zusaetzliche, externe Kontrolle durchgefuehrt?
 Hazardous Goods Class;Gefahrgutklasse;Gefahrgutklasse des Artikels
-Max. Added Amount of Superplasticizer;Max. Zusatzmenge Flie�mittel;Max. Menge an Fliessmitteln auf der Baustelle
+Max. Added Amount of Superplasticizer;Max. Zusatzmenge Fließmittel;Max. Menge an Fliessmitteln auf der Baustelle
 Max. Water-Cement Ratio w/c (eq);Max. Wasserzementgehalt w/z(eq);Kennwert bei der Zubereitung von Baustoffen mit hydraulischem Bindemittel.
 Maximum grain size;Groesstkorn;Gibt den groessten Gesteinskorndurchmesser einer Gesteinskoernung an.
 Mix Additives;Rezeptzusaetze;Beschreibt Bindemittel, Zusatzmittel und Zusatzstoffe.
@@ -29,14 +29,14 @@ Number of Batches;Anzahl Chargen;Anzahl der inkludierten Chargen im gelieferten 
 Place of Addition;Zugabeort;Ort, an welchem Zusaetze hinzugeben wurden.
 Pollutant Class;Schadstoffklasse;Schadstoffklasse des Artikels
 Product Addition at Construction Site;Produktbeigabe auf der Baustelle;Dies wird als Stueckliste aufgefuehrt, indem es als separates Item aufgefuehrt wird, bei welchem die ID eine Zuordnung zum uebergeordneten Artikel herstellt.
-Remaining Quantity in Vehicle;Restmenge im Fahrzeug;Wie gro� ist die Artikelmenge, die nicht entladen wird?
+Remaining Quantity in Vehicle;Restmenge im Fahrzeug;Wie groß ist die Artikelmenge, die nicht entladen wird?
 Retardation Time;Verzoegerungszeit;Um welche Zeitspanne verzoegert die Zugabe von Verzoegerern das Erstarren sowie die Waermeentwicklung
-Retarder Addition at Customer’s Request;Verzoegererzugabe auf Verlangen des Kunden;Verlangt der Kunde eine Verzoegerzugabe?
+Retarder Addition at Customerâ€™s Request;Verzoegererzugabe auf Verlangen des Kunden;Verlangt der Kunde eine Verzoegerzugabe?
 Start of Production;Produktionsbeginn;Der Zeitpunkt des Produktionsbeginns des Mischgutes.
 Steel Fiber Addition;Stahlfaserbeigabe;Art der Faserbeigabe zu Beton: langsam, mittel, schnell
-Storage unit;Lagerfach;Hinweis auf das Lagerfach oder Silo eines Artikels zur Unterstützung der Kommissionierung.
+Storage unit;Lagerfach;Hinweis auf das Lagerfach oder Silo eines Artikels zur UnterstÃ¼tzung der Kommissionierung.
 Strength Class;Festigkeitsklasse;Festigkeitsklasse/Leistungsklasse des gelieferten Betons
-Superplasticizer Addition at Customer’s Request;Flie�mittelzugabe auf Verlangen des Kunden;Verlangt der Kunde eine Flie�mittelzugabe?
+Superplasticizer Addition at Customerâ€™s Request;Fließmittelzugabe auf Verlangen des Kunden;Verlangt der Kunde eine Fließmittelzugabe?
 Testing age;Pruefalter;Alter des Probekoerpers im Augenblick der Pruefung.
 Time of Addition;Zugabezeitpunkt;Zugabezeitpunkt der Zusatzmittel
 Water added at customer's request;Wasserzugabe auf Verlangen des Kunden;Dies wird als Stueckliste aufgefuehrt, indem es als separates Item aufgefuehrt wird,  bei welchem die ID eine Zuordnung zum uebergeordneten Artikel herstellt.
@@ -50,5 +50,8 @@ moisture class;Feuchtigkeitsklasse;Die Feuchtigkeitsklasse ist eine Einstufung d
 net price per unit;Preis je Einheit;Ausweis des Preises je Einheit. Dies erfolgt im Schriftverkehr mit externen Kunden und teilweise auch Privatkunden.
 strength development;Festigkeitsentwicklung;Betone werden entsprechend des Festigkeitsentwicklung in sehr langsam, langsam, mittel oder schnell eingestuft.
 BIM Object;BIM-Objekt;Link zu spezifischen BIM-Objektes innerhalb eines BIM-Modells
-Locality;Lokalit�t;Relative Positionierung Stationierung / Wohnung / Raumnummer, [..]
+Locality;Lokalität;Relative Positionierung Stationierung / Wohnung / Raumnummer, [..]
 Georeferencing;Georeferenzierung;(Geplante) Absolute Position des Gutes, beschreibbar durch Koordinaten
+Initial Type-Testing Number;Erstprüfungsnummer;Die Erstprüfungsnummer ist der Nachweis, dass ein bestimmtes Produktrezept aus einem Werk die Anforderungen der entsprechenden EN-Norm nach einer Erstprüfung erfüllt.
+Standard Designation;Normbezeichnung;Die Normbezeichnung verweist auf eine technische Norm (z.B. eine Europäische Norm), die Anforderungen für ein Produkt festlegt. Sie ist die Grundlage für die Qualitätsprüfung und Zertifizierung.
+
