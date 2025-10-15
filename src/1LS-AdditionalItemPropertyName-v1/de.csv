@@ -52,6 +52,6 @@ strength development;Festigkeitsentwicklung;Betone werden entsprechend des Festi
 BIM Object;BIM-Objekt;Link zu spezifischen BIM-Objektes innerhalb eines BIM-Modells
 Locality;Lokalität;Relative Positionierung Stationierung / Wohnung / Raumnummer, [..]
 Georeferencing;Georeferenzierung;(Geplante) Absolute Position des Gutes, beschreibbar durch Koordinaten
-Initial Type-Testing Number;Erstprüfungsnummer;Die Erstprüfungsnummer ist der Nachweis, dass ein bestimmtes Produktrezept aus einem Werk die Anforderungen der entsprechenden EN-Norm nach einer Erstprüfung erfüllt.
-Standard Designation;Normbezeichnung;Die Normbezeichnung verweist auf eine technische Norm (z.B. eine Europäische Norm), die Anforderungen für ein Produkt festlegt. Sie ist die Grundlage für die Qualitätsprüfung und Zertifizierung.
+
+
 
