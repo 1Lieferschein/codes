@@ -8,3 +8,4 @@ LOCATION_ID;Site Branch Number;Site branch number;Standortniederlassungsnummer;S
 PICKUP_ID;Pickup Number;Pickup number;Abholer Nummer;Abholer Nummer
 VEHICLE_ID;Vehicle Number;Vehicle number;Fahrzeugnummer;Fahrzeugnummer
 VENDOR_ID;Vendor Number;Vendor number;Kreditorennummer;Kreditorennummer
+"CONSTRUCTION_SITE_ID";"Baustellennummer";"Baustellennummer"
