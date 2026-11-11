@@ -9,4 +9,4 @@
 "VEHICLE_ID";"Fahrzeugnummer";"Fahrzeugnummer"
 "DEBTOR_ID";"Debitorennummer";"Debitorennummer"
 "CONSTRUCTION_SITE_ID";"Baustellennummer";"Baustellennummer"
-SELLER_ORDER_ID;Auftragsnummer Verkäufer;Auftragsnummer des Verkäufers
+"SELLER_ORDER_ID";"Auftragsnummer Verkäufer";"Auftragsnummer des Verkäufers"
